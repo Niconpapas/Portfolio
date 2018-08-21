@@ -284,4 +284,7 @@ main {
   main#contact h1 {
     font-size: 45px; }
   main#contact .email {
-    font-size: 20px; } }
+    font-size: 20px; }
+  main#about img {
+    width: 250px;
+    height: 250px; } }
